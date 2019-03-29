@@ -5,8 +5,6 @@ In addition, we provide sample HPC traces of malware and side-channel attacks (w
 
 The HPC traces of malware collected on Intel core using Perf tool. This dataset (and its previous version) is used for malware detection in various works.
 DAC'17: Analyzing Hardware Based Malware Detectors
-CF'18: Comprehensive Assessment of Run-Time Hardware-Supported Malware Detection Using General and Ensemble Learning
-DAC'18: Ensemble Learning for Hardware-Based Malware Detection: A Comprehensive Analysis and Classification
-DATE'19: 2SMaRT: A Two-Stage Machine Learning-Based Approach for Run-Time Specialized Hardware-Assisted Malware Detection
+DATE'19: Lightweight Node-level Malware Detection and Network-level Malware Confinement in IoT Networks
 
-For more details please refer to DATE'19, DAC'18, DAC'17 papers from https://ece.gmu.edu/~hhomayou/publications.html
+For more details please refer to DATE'19, DAC'17 papers from https://ece.gmu.edu/~hhomayou/publications.html
