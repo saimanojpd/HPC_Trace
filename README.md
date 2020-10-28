@@ -5,4 +5,4 @@ In addition, we provide sample HPC traces of malware and side-channel attacks (w
 
 The HPC traces of malware collected on Intel core using Perf tool. 
 
-For more details please on how to use the HPC data, please refer methodology in our previous papers from https://ece.gmu.edu/~hhomayou/publications.html
+For more details please on how to use the HPC data, please refer methodology in our previous papers from http://mason.gmu.edu/~spudukot/publications.html
